@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+La verdad es que no me esperaba llegar hasta aquí el primer día. 😁 😃
 Utiliza la flecha hacia la izquierda para volver!
